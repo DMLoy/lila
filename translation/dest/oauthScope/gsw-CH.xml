@@ -29,7 +29,7 @@
   <string name="puzzleWrite">Ufgabe löse</string>
   <string name="teamRead">Privati Team Infos läse</string>
   <string name="teamWrite">Teams biträtte und verlah</string>
-  <string name="manageTeamsYouLead">Teams wo du fühersch betreue: diräkti Nachrichte schicke, Mitglieder usschlüsse</string>
+  <string name="manageTeamsYouLead">Team leite, verwalte: schick diräkti Nachrichte, entfern Mitglider</string>
   <string name="followRead">Schpiller wo mer folgt läse</string>
   <string name="followWrite">Folge und nümme folge vu andere Schpiller</string>
   <string name="msgWrite">Andere Schpiller privati Nachrichte schicke</string>

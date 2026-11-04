@@ -36,12 +36,12 @@
   <string name="takebacksWithOpponentApproval">Zugsrücknahme (mit Erlaubnis vom Gägner)</string>
   <string name="inCasualGamesOnly">Nur bi nöd g\'wertete Schpil</string>
   <string name="promoteToQueenAutomatically">Automatischi Umwandlig ine Dame</string>
-  <string name="explainPromoteToQueenAutomatically">Druck &lt;ctrl&gt; bi de Umwandlig, so wird s\'Automatische verhinderet</string>
+  <string name="explainPromoteToQueenAutomatically">Ctrl Taschte bim Umwandle truckt lah - das deaktiviert churz die automatisch Umwandlig</string>
   <string name="whenPremoving">Bim Voruszieh</string>
   <string name="claimDrawOnThreefoldRepetitionAutomatically">Automatischs Remis bi 3 Mal glicher Stellig</string>
   <string name="whenTimeRemainingLessThanThirtySeconds">Bi Reschtzit vu &lt; 30 Sekunde</string>
   <string name="moveConfirmation">Zugsbeschtätigung</string>
-  <string name="multipleChoices">Mehrfachi Uswahl. </string>
+  <string name="multipleChoices">Mehrfachi Uswahle.</string>
   <string name="explainCanThenBeTemporarilyDisabled">Chan während em Schpil im Brättmenü deaktiviert werde</string>
   <string name="inCorrespondenceGames">Bi Fernschach</string>
   <string name="correspondenceAndUnlimited">Bi Fernschach und ohni Uhr</string>

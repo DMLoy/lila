@@ -2,7 +2,7 @@
 <resources>
   <string name="challengeAFriend" comment="be mindful how 'friend' translates in gendered languages. look for a more neutral term if there's an issue, or base your translation on a different phrase like 'invite to a game'. keep it short and convey the button's meaning without offense.">En Fründ usefordere</string>
   <string name="playAgainstComputer">Schpill gäge de Computer</string>
-  <string name="gameMode">Schpielart</string>
+  <string name="gameMode">Schpilart</string>
   <string name="createLobbyGame">Es Lobby Schpil erschtelle</string>
   <string name="toInviteSomeoneToPlayGiveThisUrl">Zum Öpper zum Schpille ilade - die URL schicke</string>
   <string name="gameOver">Schpil verbi</string>
@@ -111,9 +111,9 @@
   <string name="maybeIncludeMoreGamesFromThePreferencesMenu">Villicht sött mer meh Schpil vum Iischtelligs Menü ibezieh?</string>
   <string name="openings">Eröffnige</string>
   <string name="openingExplorer">Eröffnigs Datäbank</string>
-  <string name="openingEndgameExplorer">Eröffnigs- / Ändschpiel Datäbank</string>
+  <string name="openingEndgameExplorer">Eröffnigs- / Ändschpil Datäbank</string>
   <string name="xOpeningExplorer">%s Eröffnigs Explorer</string>
-  <string name="playFirstOpeningEndgameExplorerMove">Schpill zerscht de Eröffnigs-/Ändschpiel Datäbank Zug</string>
+  <string name="playFirstOpeningEndgameExplorerMove">Schpill zerscht de Eröffnigs-/Ändschpil Datäbank Zug</string>
   <string name="winPreventedBy50MoveRule">Sieg mit de 50 Züg Regle verhinderet</string>
   <string name="lossSavedBy50MoveRule">Verluscht mit de 50 Züg Regle verhinderet</string>
   <string name="winOr50MovesByPriorMistake">Sieg oder 50 Züg dur en vorherige Fähler</string>
@@ -173,8 +173,8 @@
   <string name="offerDraw">Remis abüte</string>
   <string name="draw">Remis</string>
   <plurals name="nbPlayers">
-    <item quantity="one">%s Schpiler</item>
-    <item quantity="other">%s Schpiler/-inne</item>
+    <item quantity="one">%s Schpiler*inne</item>
+    <item quantity="other">%s Schpiler*inne</item>
   </plurals>
   <string name="drawByMutualAgreement">Remis dur Einigung</string>
   <string name="fiftyMovesWithoutProgress">50 Züg ohni Fortschritt</string>
@@ -213,7 +213,7 @@ Au vum Erschtelle vu mehrere Konte wird dringend abgrate - übermässigs Multiko
   <string name="minutesPerSide">Minute pro Schpiler</string>
   <string name="variant">Variante</string>
   <string name="variants">Variante</string>
-  <string name="variantsDescription">Meh Schpielvariante</string>
+  <string name="variantsDescription">Meh Schpilvariante</string>
   <string name="timeControl">Bedänkzit</string>
   <string name="realTime">Ächtzit</string>
   <string name="correspondence">Fernschach</string>
@@ -309,7 +309,7 @@ Au vum Erschtelle vu mehrere Konte wird dringend abgrate - übermässigs Multiko
   <string name="unlimited">Unbegränzt</string>
   <string name="unlimitedDescription">Nimm dir so vill Zit, wie du bruchsch</string>
   <string name="mode">Modus</string>
-  <string name="casual">Ungwertet</string>
+  <string name="casual">Ung\'wertet</string>
   <string name="rated">G\'wertet</string>
   <string name="casualTournament">Ung\'wertet</string>
   <string name="ratedTournament">G\'wertet</string>
@@ -360,7 +360,7 @@ Au vum Erschtelle vu mehrere Konte wird dringend abgrate - übermässigs Multiko
     <item quantity="other">Gib %s Sekunde</item>
   </plurals>
   <string name="thisAccountViolatedTos">Das Konto hät gäge d\'Lichess Nutzigsbedingige verschtosse!</string>
-  <string name="openingExplorerAndTablebase">Eröffnigs Explorer &amp; Ändschpiel Datäbank</string>
+  <string name="openingExplorerAndTablebase">Eröffnigs Explorer &amp; Ändschpil Datäbank</string>
   <string name="takeback">Zugsrücknahm</string>
   <string name="proposeATakeback">Zugsrücknahm vorschlah</string>
   <string name="whiteProposesTakeback">Wiss wett de Zug z\'rugg neh</string>
@@ -525,7 +525,7 @@ Fründe am Schpille: %2$s</string>
   <string name="boardEditor">Schtellig ufbaue</string>
   <string name="setTheBoard">Schtellig wähle</string>
   <string name="popularOpenings">Gängigi Eröffnige</string>
-  <string name="endgamePositions">Ändschpiel Schtellige</string>
+  <string name="endgamePositions">Ändschpil Schtellige</string>
   <string name="chess960StartPosition">Schach960 Afangsschtellig: %s</string>
   <string name="randomChess960Position">Zuefälligi Schach960 Schtellig</string>
   <string name="startPosition">Afangsposizion</string>
@@ -919,8 +919,8 @@ gits nöd und es isch nie g\'wertet.</string>
     <item quantity="other">%s Sekunde</item>
   </plurals>
   <string name="opening">Eröffnig</string>
-  <string name="middlegame">Mittelschpiel</string>
-  <string name="endgame">Ändschpiel</string>
+  <string name="middlegame">Mittelschpil</string>
+  <string name="endgame">Ändschpil</string>
   <string name="conditionalPremoves">Bedingti Voruszüg</string>
   <string name="addCurrentVariation">Aktuelli Variante bifüege</string>
   <string name="playVariationToCreateConditionalPremoves">Schpill e Variante, um bedingti Voruszüg z\'kreiere</string>
@@ -942,7 +942,7 @@ gits nöd und es isch nie g\'wertet.</string>
   <string name="howToAvoidThis">Wie chasch das verhindere?</string>
   <string name="playEveryGame">Schpill jedes Schpil, wo du afangsch, au fertig.</string>
   <string name="tryToWin">Probier jedes Schpil z\'günne (oder mindeschtens es Remis z\'erreiche).</string>
-  <string name="resignLostGames">Gib es verlores Schpiel uf (lass nöd eifach d\'Uhr ablaufe).</string>
+  <string name="resignLostGames">Gib es verlores Schpil uf (lass nöd eifach d\'Uhr ablaufe).</string>
   <string name="temporaryInconvenience">Mir entschuldiged eus für die vorübergehende Unannehmlichkeite,</string>
   <string name="wishYouGreatGames">und wünsched dir tolli Schpil uf lichess.org.</string>
   <string name="thankYouForReading">Danke für’s Läse!</string>
@@ -1015,7 +1015,7 @@ Du chasch mit %s so e FEN Schtellig generiere und
 sie dänn im Fäld \"Afangsposition\" ifüege oder das 
 Fäld leer lah und all Schpil normal schtarte.</string>
   <string name="cancelSimul">Simultan Event abbräche</string>
-  <string name="simulHostcolor">Farb vom Simultanschpiler, für jedes Schpiel</string>
+  <string name="simulHostcolor">Farb vom Simultanschpiler, für jedes Schpil</string>
   <string name="estimatedStart">Vorussichtlichi Schtartzit</string>
   <string name="simulFeatured">Uf %s zeige</string>
   <string name="simulFeaturedHelp">Zeig allne uf %s dis Simultanschach. Privats Simultanschach deaktiviert.</string>

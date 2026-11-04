@@ -37,6 +37,7 @@
   <string name="spectator">Zueschauer</string>
   <string name="contributor">Mitwürkendi</string>
   <string name="kick">Userüere</string>
+  <string name="remove">Entferne</string>
   <string name="leaveTheStudy">Schtudie verlah</string>
   <string name="youAreNowAContributor">Du bisch jetzt en Mitwürkende</string>
   <string name="youAreNowASpectator">Du bisch jetzt Zueschauer</string>
@@ -100,8 +101,8 @@
   <string name="loadAGameFromPgn">Lad Schpil mit eme PGN</string>
   <string name="automatic">Automatisch</string>
   <plurals name="pasteYourPgnTextHereUpToNbGames" comment="It is possible to create multiple chapters in one go. Please try to convey this using a short translation.">
-    <item quantity="one">Füeg din PGN Tegscht da i, bis zu %s Schpil</item>
-    <item quantity="other">Füeg din PGN Tegscht da i, bis zu %s Schpil</item>
+    <item quantity="one">Füeg da din PGN Tegscht i, bis und mit Schpil %s.</item>
+    <item quantity="other">Füeg da Schpil als PNG Tegscht i. Pro Schpil wird es neus Kapitel g\'macht. Die Schtudie cha bis zu %s Kapitel ha.</item>
   </plurals>
   <string name="urlOfTheGame">URL vu de Schpil</string>
   <string name="createChapter">Kapitel erschtelle</string>

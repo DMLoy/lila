@@ -29,7 +29,6 @@
   <string name="puzzleWrite">Bulmacalar çöz</string>
   <string name="teamRead">Özel ekip bilgilerini okuyun</string>
   <string name="teamWrite">Takımlara katıl ve ayrıl</string>
-  <string name="manageTeamsYouLead">Lideri olduğunuz takımları yönetin: doğrudan mesaj gönderin, üyeleri çıkarın</string>
   <string name="followRead">Takip edilen oyuncuları oku</string>
   <string name="followWrite">Diğer oyuncuları takip et ve takibi bırak</string>
   <string name="msgWrite">Diğer oyunculara özel mesajlar gönder</string>

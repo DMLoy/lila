@@ -102,11 +102,6 @@
   <string name="loadAPositionFromFen">Încărcați o poziție din FEN</string>
   <string name="loadAGameFromPgn">Încărcați jocuri din PGN</string>
   <string name="automatic">Automată</string>
-  <plurals name="pasteYourPgnTextHereUpToNbGames" comment="It is possible to create multiple chapters in one go. Please try to convey this using a short translation.">
-    <item quantity="one">Lipiți textul PGN aici, până la %s meci</item>
-    <item quantity="few">Lipiți textul PGN aici, până la %s meciuri. Pentru fiecare joc se creează un nou capitol.</item>
-    <item quantity="other">Lipiți textul PGN aici, până la %s meciuri. Pentru fiecare joc se creează un nou capitol.</item>
-  </plurals>
   <string name="urlOfTheGame">URL-urile jocurilor, câte unul pe linie</string>
   <string name="createChapter">Creați capitolul</string>
   <string name="createStudy">Creați studiul</string>

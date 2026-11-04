@@ -22,8 +22,10 @@
     <item quantity="other">Teamleiter</item>
   </plurals>
   <string name="teamRecentMembers">Neuschti Mitglieder</string>
-  <string name="kickSomeone">Öpper usem Team usschlüsse</string>
-  <string name="whoToKick">Wellä wettsch usem Team schmeisse?</string>
+  <string name="kickSomeone">Schmeiss Öpper usem Team</string>
+  <string name="removeSomeone">Schmeiss Öpper usem Team</string>
+  <string name="whoToKick">Wen wettsch usem Team schmeisse?</string>
+  <string name="whoToRemove">Wen wettsch usem Team schmeisse?</string>
   <plurals name="xJoinRequests">
     <item quantity="one">%s Bitrittsafrag</item>
     <item quantity="other">%s Bitrittsafrage</item>

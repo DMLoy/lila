@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="donate">Przekaż datek</string>
+  <string name="donate">Dotacja</string>
   <string name="donateAsX">Wesprzyj jako %s</string>
   <string name="lichessPatron">Patron Lichess</string>
   <string name="patronSince" comment="string is a date">Patron od %s</string>
@@ -36,8 +36,6 @@
   <string name="weAreSmallTeam">Jesteśmy małym zespołem, więc Twoje wsparcie ma ogromne znaczenie!</string>
   <string name="celebratedPatrons">Znamienici patroni, dzięki którym działa Lichess</string>
   <string name="whereMoneyGoes">Na co zostaną wydane przekazane pieniądze?</string>
-  <string name="serversAndDeveloper">Przede wszystkim na szybkie serwery.
-Zapłacimy również pracującemu na pełny etat programiście: %s, założycielowi Lichess.</string>
   <string name="costBreakdown">Zobacz szczegółowy podział kosztów</string>
   <string name="officialNonProfit">Czy Lichess jest oficjalną organizacją non-profit?</string>
   <string name="actOfCreation">Tak, oto akt utworzenia (w języku francuskim)</string>

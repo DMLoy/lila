@@ -34,6 +34,7 @@
   <string name="publishHelp">Isch er aktiviert, wird de Bitrag i dim Blog zeigt. Wänn nöd, wird er i dine Entwürf, privat blibe</string>
   <string name="includesPromotedContent">Hät beworbeni/g\'sponsereti Inhalt oder Empfehligslinks</string>
   <string name="mandatoryForSponsoredContent">Obligatorisch für g\'sponsereti Inhält, Affiliate Links oder kommerzielli Werbig</string>
+  <string name="containsSponsoredContent">Enthaltet g\'sponsereti Inhält, Affiliate Links oder komerzielli Werbig</string>
   <string name="stickyPost" comment="Label for the toggle that can make this blog post sticky.">Post Chläber</string>
   <string name="stickyPostHelp">Wänn das g\'wählt isch, chunt de Bitrag im Blog und i dim Profil als Erschte.</string>
   <plurals name="publishedNbBlogPosts">
